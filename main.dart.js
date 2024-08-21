@@ -78741,7 +78741,7 @@ j.push(A.xL(!0,620,s.x,s.d,0.55,330))}j.push(A.b1(l,1.5*$.aR.P()/100,l))
 if(A.Mb(a)){s=m.a
 j.push(A.xL(l,400,s.y,s.d,0.6,A.b9(a,l,i).w.a.a))}j.push(A.b1(l,1.5*$.aR.P()/100,l))
 if(A.b9(a,l,i).w.a.a>=1024){s=m.a
-j.push(A.xL(l,400,s.y,s.d,0.4,A.b9(a,l,i).w.a.a))}j.push(A.b1(l,1.5*$.aR.P()/100,l))
+j.push(A.xL(l,400,s.y,s.d,0.4,A.b9(a,l,i).w.a.a))}j.push(A.b1(l,2.5*$.aR.P()/100,l))
 i=m.a
 s=A.dL(A.a([A.a_e(A.dC(15),A.jh(i.f,B.H,l,90,l,90)),new A.bO(B.b9,A.dp(A.a([A.bu(i.e,l,l,l,l,l,l,l,B.yk,l,l,l),B.yn],k),B.aK,B.D,B.G),l)],k),B.R,B.D,B.G)
 r=A.b1(l,$.aR.P()/100,l)
